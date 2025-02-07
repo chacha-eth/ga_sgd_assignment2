@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+.code/
+*/__pycache__/
+datasets/
+*.ipynb
+log/
+results/
+model_weights/
+env/
